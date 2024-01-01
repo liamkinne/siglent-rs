@@ -1,0 +1,3 @@
+[workspace]
+members = ["sigctl", "sigl"]
+workspace.resolver = "2"
